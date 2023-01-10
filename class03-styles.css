@@ -1,0 +1,13 @@
+h1{
+          background-color: aqua;
+          text-align:center;
+          width:500px;
+          padding-right: 10px;
+          text-align:right;
+}
+a{
+          display:inline-block;
+          background-color: orange;
+          width:700px;
+          text-align:center;
+}

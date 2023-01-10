@@ -1,0 +1,10 @@
+html{
+          font-size: 10px;;
+}
+p{
+          font-size:1.4rem;
+}
+.text-content{
+          font-size: 3rem;
+          border:0.4rem solid green;
+}

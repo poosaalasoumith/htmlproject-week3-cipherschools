@@ -1,0 +1,11 @@
+.cool::before{
+          content:"hello  ";
+          display:black;
+          border:1px solid black;
+          margin-bottom:2px;
+}
+.main-heading::after{
+          content:"hello";
+          border:5px solid green;
+          padding:10px;
+}
